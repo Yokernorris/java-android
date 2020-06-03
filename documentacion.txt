@@ -1,0 +1,6 @@
+Que es un activity? https://developer.android.com/guide/components/activities/intro-activities
+
+Ciclo de vida: https://developer.android.com/guide/components/activities/activity-lifecycle?hl=es
+
+Referencias a recursos: https://developer.android.com/guide/topics/resources/providing-resources?hl=es-419
+
