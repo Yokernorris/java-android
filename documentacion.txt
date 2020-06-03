@@ -4,3 +4,11 @@ Ciclo de vida: https://developer.android.com/guide/components/activities/activit
 
 Referencias a recursos: https://developer.android.com/guide/topics/resources/providing-resources?hl=es-419
 
+Controles de entrada: https://developer.android.com/guide/topics/ui/controls?hl=es-419
+
+Botones: https://developer.android.com/guide/topics/ui/controls/button?hl=es-419
+
+Checkboxes: https://developer.android.com/guide/topics/ui/controls/checkbox
+
+Radio Buttons: https://developer.android.com/guide/topics/ui/controls/radiobutton
+
