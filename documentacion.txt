@@ -12,3 +12,4 @@ Checkboxes: https://developer.android.com/guide/topics/ui/controls/checkbox
 
 Radio Buttons: https://developer.android.com/guide/topics/ui/controls/radiobutton
 
+Intents y filtros intents: https://developer.android.com/guide/components/intents-filters

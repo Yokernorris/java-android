@@ -3,4 +3,7 @@
     <string name="button_login">Iniciar sesión</string>
     <string name="checkbox_login">Recordar</string>
     <string name="login_secure">Inicio seguro</string>
+    <string name="r_pro">Profesional</string>
+    <string name="r_empre">Empresarial</string>
+    <string name="r_free">Gratuita</string>
 </resources>
